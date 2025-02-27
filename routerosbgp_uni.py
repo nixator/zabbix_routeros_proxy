@@ -100,7 +100,7 @@ def main():
     parser.add_argument('hostname', help='Hostname pro Zabbix')
     args = parser.parse_args()
 
-    USERNAME = "oxibak"
+    USERNAME = "user"
     PASSWORD = "xxxxxxxxxxx"
     SOURCE_IP = "100.64.1.66"
     PORT = 10002
